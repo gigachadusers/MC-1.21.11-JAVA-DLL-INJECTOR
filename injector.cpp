@@ -16,7 +16,7 @@ using namespace CryptoPP;
 #define RED "\033[31m"
 #define RESET "\033[0m"
 
-const string DLL_PATH = "path/to/your/dll.dll";
+const string DLL_PATH = "path/to/your/dll.dll"; // put ur dll file path here or if ur gonna make it a sellable product recode it so it downloads the dll injects it then deletes it 
 const string SEM_PHRASE = "Minecraft";
 const int ENCRYPTION_KEY = 0xDEADBEEF;
 const int WAIT_TIME = 10000; 
